@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_pic"
+        icon="@mipmap/photo"
+        title="图片" />
+    <tab
+        id="@+id/tab_sound"
+        icon="@mipmap/sound"
+        title="录语音" />
+    <tab
+        id="@+id/tab_video"
+        icon="@mipmap/video_record"
+        title="录视频" />
+    <tab
+        id="@+id/tab_canvas"
+        icon="@mipmap/canvas"
+        title="画板" />
+</tabs>
